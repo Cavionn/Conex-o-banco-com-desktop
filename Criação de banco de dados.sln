@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Criação de banco de dados", "Criação de banco de dados\Criação de banco de dados.csproj", "{BFA810EC-1B55-4B7A-94B2-B2BC8B0E8342}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFA810EC-1B55-4B7A-94B2-B2BC8B0E8342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA810EC-1B55-4B7A-94B2-B2BC8B0E8342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA810EC-1B55-4B7A-94B2-B2BC8B0E8342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA810EC-1B55-4B7A-94B2-B2BC8B0E8342}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ECD9133-4D33-4185-85D3-4F6C540B2643}
+	EndGlobalSection
+EndGlobal
